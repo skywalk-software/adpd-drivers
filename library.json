@@ -1,8 +1,5 @@
 {
     "name": "adpd-drivers",
     "version": "0.0.1",
-    "description": "ADPD drivers",
-    "build": {
-        "srcFilter": "+<*> -<ADPD40xx/examples>"
-    }
+    "description": "ADPD drivers"
 }

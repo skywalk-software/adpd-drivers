@@ -4,6 +4,7 @@
     "description": "ADPD drivers",
     "build":
     {
-        "srcDir": "src"
+        "srcDir": "src",
+        "src_filter": "+<*> -<examples>"
     }
 }

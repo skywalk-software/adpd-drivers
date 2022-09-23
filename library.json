@@ -1,5 +1,9 @@
 {
     "name": "adpd-drivers",
     "version": "0.0.1",
-    "description": "ADPD drivers"
+    "description": "ADPD drivers",
+    "build":
+    {
+        "srcDir": "src"
+    }
 }

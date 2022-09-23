@@ -3,7 +3,6 @@
     "version": "0.0.1",
     "description": "ADPD drivers",
     "build": {
-        "srcDir": "src",
-        "includeDir": "src"
+        "srcFilter": "+<*> -<ADPD40xx/examples>"
     }
 }
